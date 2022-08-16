@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome Spoink os
 
-You can use the [editor on GitHub](https://github.com/spoinkbub/spoink-os/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Spoink os knows where you live
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
